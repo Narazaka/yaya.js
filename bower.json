@@ -1,0 +1,37 @@
+{
+	"name": "yaya.js",
+	"description": "Yet Another AYA on JavaScript",
+	"main": "aya5/yaya.js",
+	"ignore": [
+		"**/.*",
+		"bower_components",
+		"node_modules",
+		"npm-debug.log",
+		"coverage",
+		"aya5/babel",
+		"aya5/dic",
+		"aya5/OriginalAya",
+		"aya5/VisualC7.1",
+		"aya5/makefile.*",
+		"aya5/*.c",
+		"aya5/*.cpp",
+		"aya5/*.h",
+		"aya5/*.bat",
+		"aya5/*.dep",
+		"aya5/*.dsp",
+		"aya5/*.dsw",
+		"aya5/*.sln",
+		"aya5/*.vcproj",
+		"aya5/*.filters",
+		"aya5/*.rc",
+		"aya5/*.exe",
+		"aya5/*.o",
+		"aya5/*.py",
+		"aya5/em-*.js"
+	],
+	"author": {
+		"name": "narazaka",
+		"url": "http://narazaka.net/"
+	},
+	"license": "BSD-3-Clause"
+}
