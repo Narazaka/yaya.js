@@ -19,6 +19,11 @@ Installation
 
 or download zip archive and get yaya.js
 
+Limitation
+---------------------------------------
+
+Original YAYA depends on boost but yaya.js depends on STL, so some regex functions (//m,//s,//x) provided by boost is disabled.
+
 Usage
 ---------------------------------------
 
