@@ -1,0 +1,3 @@
+[submodule "yaya-shiori"]
+	path = yaya-shiori
+	url = git@github.com:ponapalt/yaya-shiori.git
